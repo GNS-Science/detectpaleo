@@ -1,4 +1,4 @@
-# A Simple Python Implemention of the UCERF3 workflow
+# Detectability of Surface-Rupture Earthquakes in Paleo Trenches:  An implementation of UCERF3 workflow for NZ-NSHM 2022. 
 
 
 See: Weldon RJ, Biasi GP. Appendix I: Probability of detection of ground rupture at paleoseismic sites. 
